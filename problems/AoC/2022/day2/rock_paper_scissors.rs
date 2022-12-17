@@ -1,4 +1,4 @@
-// 2022 - Day 2 - Rock Paper Scissors
+// 2022 - Day 2 - Rock Paper Scissors - (Part One)
 
 /* Problem Statement:
    The first column is what your opponent is going to play:
@@ -46,7 +46,10 @@ fn main() {
     let input = parse_input(file);
 
     let result = rock_paper_scissors(input);
-    println!("AoC:2022 • Day 2 • Rock Paper Scissors\nResult: {}", result)
+    println!(
+        "AoC:2022 • Day 2 • Rock Paper Scissors (Part 1)\nResult: {}",
+        result
+    )
 }
 
 // Takes the parsed input as Vector of tuples of chars/

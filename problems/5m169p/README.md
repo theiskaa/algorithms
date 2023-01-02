@@ -7,4 +7,13 @@
 
 ---
 
-
+## _Implemented_: 
+- [contains_duplicate.go](https://github.com/theiskaa/algorithms/blob/main/problems/5m169p/contains_duplicate.go)
+- [max_profit.rs](https://github.com/theiskaa/algorithms/blob/main/problems/5m169p/max_profit.rs)
+- [max_profit_ii.rs](https://github.com/theiskaa/algorithms/blob/main/problems/5m169p/max_profit_ii.rs)
+- [ransom_note.rs](https://github.com/theiskaa/algorithms/blob/main/problems/5m169p/ransom_note.rs)
+- [single_number.rs](https://github.com/theiskaa/algorithms/blob/main/problems/5m169p/single_number.rs)
+- [two_sum.rs](https://github.com/theiskaa/algorithms/blob/main/problems/5m169p/two_sum.rs)
+- [valid_anagram.rs](https://github.com/theiskaa/algorithms/blob/main/problems/5m169p/valid_anagram.rs)
+- [valid_palindrome.rs](https://github.com/theiskaa/algorithms/blob/main/problems/5m169p/valid_palindrome.rs)
+- [valid_parentheses.rs](https://github.com/theiskaa/algorithms/blob/main/problems/5m169p/valid_parentheses.rs)

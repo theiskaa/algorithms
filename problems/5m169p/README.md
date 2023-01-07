@@ -17,3 +17,4 @@
 - [valid_anagram.rs](https://github.com/theiskaa/algorithms/blob/main/problems/5m169p/valid_anagram.rs)
 - [valid_palindrome.rs](https://github.com/theiskaa/algorithms/blob/main/problems/5m169p/valid_palindrome.rs)
 - [valid_parentheses.rs](https://github.com/theiskaa/algorithms/blob/main/problems/5m169p/valid_parentheses.rs)
+- [merge_two_sorted_lists.rs](https://github.com/theiskaa/algorithms/blob/main/problems/5m169p/merge_two_sorted_lists.rs)

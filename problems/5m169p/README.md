@@ -22,3 +22,4 @@
 - [flood_fill.go](https://github.com/theiskaa/algorithms/blob/main/problems/5m169p/flood_fill.go)
 - [lowest_common_ancestor.go](https://github.com/theiskaa/algorithms/blob/main/problems/5m169p/lowest_common_ancestor.go)
 - [balanced_binary_tree.go](https://github.com/theiskaa/algorithms/blob/main/problems/5m169p/balanced_binary_tree.go)
+- [linked_list_cycle.go](https://github.com/theiskaa/algorithms/blob/main/problems/5m169p/linked_list_cycle.go)

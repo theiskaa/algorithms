@@ -24,3 +24,4 @@
 - [balanced_binary_tree.go](https://github.com/theiskaa/algorithms/blob/main/problems/5m169p/balanced_binary_tree.go)
 - [linked_list_cycle.go](https://github.com/theiskaa/algorithms/blob/main/problems/5m169p/linked_list_cycle.go)
 - [climbing_stairs.rs](https://github.com/theiskaa/algorithms/blob/main/problems/5m169p/climbing_stairs.rs)
+- [simplify_path.go](https://github.com/theiskaa/algorithms/blob/main/problems/5m169p/simplify_path.go)
